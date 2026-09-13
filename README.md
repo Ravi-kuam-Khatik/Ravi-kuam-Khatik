@@ -77,31 +77,31 @@ Building modern web applications with JavaScript, React & Node.js.
 
 <td width="33%" valign="top">
 
-### 💼 [Portfolio](YOUR_PORTFOLIO_REPO)
+### 🃏 [Card Project](https://github.com/Ravi-kuam-Khatik/Card-Project)
 
-Personal portfolio website built with React and Vite.
+A frontend card project built with HTML and CSS.
 
-**Tech:** React • Vite • CSS
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛒 [Amazon Clone](YOUR_AMAZON_REPO)
-
-Amazon-inspired frontend website with responsive design.
-
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS
 
 </td>
 
 <td width="33%" valign="top">
 
-### ▶️ [YouTube Clone](YOUR_YOUTUBE_REPO)
+### 💾 [Local Storage Project](https://github.com/Ravi-kuam-Khatik/Local--Storage--Project)
 
-YouTube-inspired interface with API integration.
+A JavaScript project demonstrating browser local storage.
 
-**Tech:** JavaScript • API • HTML • CSS
+**Tech:** JavaScript
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔎 [Image Search App](https://github.com/Ravi-kuam-Khatik/Image-Search-App)
+
+An image search application built with frontend technologies.
+
+**Tech:** CSS • JavaScript
 
 </td>
 
@@ -111,31 +111,31 @@ YouTube-inspired interface with API integration.
 
 <td width="33%" valign="top">
 
-### 🔐 [MERN Authentication](YOUR_MERN_REPO)
+### ⏱️ [Stop Watch](https://github.com/Ravi-kuam-Khatik/stop-watch)
 
-Authentication system with protected routes.
+A stopwatch application built using JavaScript.
 
-**Tech:** React • Node.js • MongoDB
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚙️ [Node.js API](YOUR_NODE_REPO)
-
-REST API built using Node.js and Express.js.
-
-**Tech:** Node.js • Express.js
+**Tech:** JavaScript • HTML • CSS
 
 </td>
 
 <td width="33%" valign="top">
 
-### ☕ [Java DSA](YOUR_JAVA_DSA_REPO)
+### 🎨 [Change Shape & Colour](https://github.com/Ravi-kuam-Khatik/change-shap-and-colour)
 
-Data Structures and Algorithms practice in Java.
+An interactive JavaScript project for changing shapes and colours.
 
-**Tech:** Java • DSA
+**Tech:** JavaScript • CSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 [Major Project](https://github.com/Ravi-kuam-Khatik/Major-Project)
+
+My major web development project.
+
+**Tech:** HTML • CSS • JavaScript
 
 </td>
 
