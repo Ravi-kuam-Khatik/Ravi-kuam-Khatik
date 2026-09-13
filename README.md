@@ -67,3 +67,77 @@ Building modern web applications with JavaScript, React & Node.js.
 </td>
 </tr>
 </table>
+
+
+
+<h2>📌 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 💼 Portfolio
+
+Personal portfolio website built with React and Vite.
+
+**Tech:** React • Vite • CSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 Amazon Clone
+
+Amazon-inspired frontend website with responsive design.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="33%" valign="top">
+
+### ▶️ YouTube Clone
+
+YouTube-inspired interface with API integration.
+
+**Tech:** JavaScript • API • HTML • CSS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔐 MERN Authentication
+
+Authentication system with protected routes.
+
+**Tech:** React • Node.js • MongoDB
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Node.js API
+
+REST API built using Node.js and Express.js.
+
+**Tech:** Node.js • Express.js
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☕ Java DSA
+
+Data Structures and Algorithms practice in Java.
+
+**Tech:** Java • DSA
+
+</td>
+
+</tr>
+</table>
