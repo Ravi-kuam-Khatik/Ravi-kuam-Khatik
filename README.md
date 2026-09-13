@@ -144,13 +144,21 @@ My major web development project.
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-kuam-Khatik&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-kuam-Khatik&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ravi-kuam-Khatik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Ravi's GitHub Stats"
+    height="180"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-kuam-Khatik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Ravi's Top Languages"
+    height="180"
+  />
+</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
