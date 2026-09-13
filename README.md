@@ -11,3 +11,63 @@ Building modern web applications with JavaScript, React & Node.js.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Ravi-kuam-Khatik)
 
 </div>
+
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://github.com/Ravi-kuam-Khatik">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
+<hr>
+
+<h2>🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎓 Currently Learning
+
+- Advanced JavaScript
+- React.js
+- Node.js & Express.js
+- MongoDB
+- DSA with Java
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎯 Goals
+
+- Become a Full Stack Developer
+- Build real-world projects
+- Improve problem-solving
+- Contribute to Open Source
+
+</td>
+
+<td width="33%" valign="top">
+
+### ✨ Fun Fact
+
+☕ I turn coffee into code  
+💡 Ideas into projects  
+🚀 Always learning & building
+
+</td>
+</tr>
+</table>
