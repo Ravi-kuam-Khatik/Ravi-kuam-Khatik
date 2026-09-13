@@ -141,3 +141,33 @@ My major web development project.
 
 </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-kuam-Khatik&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-kuam-Khatik&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ravi-kuam-Khatik&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🎯 What I'm Currently Doing
+
+- 🚀 Building projects with JavaScript & React
+- 📚 Learning Node.js, Express.js & MongoDB
+- 💻 Practicing Data Structures & Algorithms with Java
+- 🤝 Open to collaboration and development opportunities
+
+---
+
+### 💙 Thanks for visiting my profile!
+
+**Build • Learn • Grow • Repeat 🚀**
