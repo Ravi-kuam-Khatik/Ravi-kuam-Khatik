@@ -77,7 +77,7 @@ Building modern web applications with JavaScript, React & Node.js.
 
 <td width="33%" valign="top">
 
-### 💼 Portfolio
+### 💼 [Portfolio](YOUR_PORTFOLIO_REPO)
 
 Personal portfolio website built with React and Vite.
 
@@ -87,7 +87,7 @@ Personal portfolio website built with React and Vite.
 
 <td width="33%" valign="top">
 
-### 🛒 Amazon Clone
+### 🛒 [Amazon Clone](YOUR_AMAZON_REPO)
 
 Amazon-inspired frontend website with responsive design.
 
@@ -97,7 +97,7 @@ Amazon-inspired frontend website with responsive design.
 
 <td width="33%" valign="top">
 
-### ▶️ YouTube Clone
+### ▶️ [YouTube Clone](YOUR_YOUTUBE_REPO)
 
 YouTube-inspired interface with API integration.
 
@@ -111,7 +111,7 @@ YouTube-inspired interface with API integration.
 
 <td width="33%" valign="top">
 
-### 🔐 MERN Authentication
+### 🔐 [MERN Authentication](YOUR_MERN_REPO)
 
 Authentication system with protected routes.
 
@@ -121,7 +121,7 @@ Authentication system with protected routes.
 
 <td width="33%" valign="top">
 
-### ⚙️ Node.js API
+### ⚙️ [Node.js API](YOUR_NODE_REPO)
 
 REST API built using Node.js and Express.js.
 
@@ -131,7 +131,7 @@ REST API built using Node.js and Express.js.
 
 <td width="33%" valign="top">
 
-### ☕ Java DSA
+### ☕ [Java DSA](YOUR_JAVA_DSA_REPO)
 
 Data Structures and Algorithms practice in Java.
 
