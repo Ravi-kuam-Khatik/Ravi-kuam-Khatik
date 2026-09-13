@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravi Kumar Khatik
 
-<!--
-**Ravi-kuam-Khatik/Ravi-kuam-Khatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+I'm an MCA student and aspiring Full Stack Developer passionate about
+building modern web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+- SQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript
+- React.js
+- Node.js & Express.js
+- MongoDB
+- Data Structures & Algorithms with Java
+
+---
+
+## 🚀 Projects
+
+- 🛒 Amazon Clone
+- ▶️ YouTube Clone
+- 🧴 Bath & Body Works Clone
+- 💼 Personal Portfolio
+- 🔐 MERN Authentication System
+
+---
+
+## 🎯 Goals
+
+- Become a professional Full Stack Developer
+- Build real-world projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 📧 Email
