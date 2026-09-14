@@ -72,14 +72,9 @@ alt="LeetCode">
 </a>
 &nbsp; LeetCode
 </p>
-
 <td width="30%" valign="middle" align="center">
 
-<img
-  src="./leptop2.png"
-  width="100%"
-  alt="Code Build Learn Repeat"
->
+<img src="./leptop2.png" width="100%" alt="Code Build Learn Repeat">
 
 </td>
 
