@@ -146,3 +146,170 @@ alt="LeetCode">
 
 </tr>
 </table>
+
+
+<br>
+
+<h3>Pinned Repositories</h3>
+
+<p align="right">
+  <sub>Customize your pins</sub>
+</p>
+
+<table width="100%" cellspacing="8" cellpadding="10">
+
+<tr>
+
+<!-- PROJECT 1 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_MERN_REPO_URL">
+<b>📦 mern-ecommerce-platform</b>
+</a>
+
+<br><br>
+
+<sub>
+A full-stack eCommerce platform
+built with MERN stack.
+</sub>
+
+<br><br>
+
+<sub>🟡 JavaScript</sub>
+&nbsp;&nbsp;
+<sub>☆ 1.2k</sub>
+&nbsp;&nbsp;
+<sub>⑂ 320</sub>
+
+</td>
+
+
+<!-- PROJECT 2 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_YOUTUBE_REPO_URL">
+<b>▣ youtube-clone-react</b>
+</a>
+
+<br><br>
+
+<sub>
+A YouTube clone with React and
+YouTube API.
+</sub>
+
+<br><br>
+
+<sub>🔵 React</sub>
+&nbsp;&nbsp;
+<sub>☆ 856</sub>
+&nbsp;&nbsp;
+<sub>⑂ 210</sub>
+
+</td>
+
+
+<!-- PROJECT 3 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_AMAZON_REPO_URL">
+<b>▣ amazon-clone</b>
+</a>
+
+<br><br>
+
+<sub>
+A responsive Amazon clone with
+modern UI.
+</sub>
+
+<br><br>
+
+<sub>⚫ Next.js</sub>
+&nbsp;&nbsp;
+<sub>☆ 640</sub>
+&nbsp;&nbsp;
+<sub>⑂ 180</sub>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<!-- PROJECT 4 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_JS_REPO_URL">
+<b>▣ javascript-dom-projects</b>
+</a>
+
+<br><br>
+
+<sub>
+100+ DOM projects for practice.
+</sub>
+
+<br><br>
+
+<sub>🟡 JavaScript</sub>
+&nbsp;&nbsp;
+<sub>☆ 420</sub>
+&nbsp;&nbsp;
+<sub>⑂ 95</sub>
+
+</td>
+
+
+<!-- PROJECT 5 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_PORTFOLIO_REPO_URL">
+<b>▣ portfolio-website</b>
+</a>
+
+<br><br>
+
+<sub>
+My personal portfolio website.
+</sub>
+
+<br><br>
+
+<sub>🔴 HTML</sub>
+&nbsp;&nbsp;
+<sub>☆ 380</sub>
+&nbsp;&nbsp;
+<sub>⑂ 60</sub>
+
+</td>
+
+
+<!-- PROJECT 6 -->
+<td width="33%" valign="top" style="border:1px solid #30363d; border-radius:8px;">
+
+<a href="YOUR_NODE_REPO_URL">
+<b>▣ nodejs-express-api</b>
+</a>
+
+<br><br>
+
+<sub>
+REST API with authentication.
+</sub>
+
+<br><br>
+
+<sub>🟢 Node.js</sub>
+&nbsp;&nbsp;
+<sub>☆ 300</sub>
+&nbsp;&nbsp;
+<sub>⑂ 75</sub>
+
+</td>
+
+</tr>
+
+</table>
