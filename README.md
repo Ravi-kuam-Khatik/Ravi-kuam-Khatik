@@ -27,71 +27,54 @@ to solve real-world problems.
 
 <h3>Connect with me:</h3>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-width="24"
-height="24"
-alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.icons8.com/color/28/linkedin.png"
+         width="22"
+         height="22"
+         style="vertical-align:middle;"
+         alt="LinkedIn">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.icons8.com/fluency/28/internet.png"
+         width="22"
+         height="22"
+         style="vertical-align:middle;"
+         alt="Portfolio">
+    Portfolio
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://cdn.simpleicons.org/googlechrome/00D9FF"
-width="24"
-height="24"
-alt="Portfolio">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/28/gmail-new.png"
+         width="22"
+         height="22"
+         style="vertical-align:middle;"
+         alt="Gmail">
+    Gmail
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.icons8.com/ios-glyphs/28/ffffff/twitterx.png"
+         width="22"
+         height="22"
+         style="vertical-align:middle;"
+         alt="Twitter">
+    Twitter
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335"
-width="24"
-height="24"
-alt="Gmail">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">Gmail</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_TWITTER_URL">
-<img src="https://cdn.simpleicons.org/x/FFFFFF"
-width="24"
-height="24"
-alt="Twitter">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_TWITTER_URL">Twitter</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116"
-width="24"
-height="24"
-alt="LeetCode">
-</a>
-&nbsp;&nbsp;
-<a href="YOUR_LEETCODE_URL">LeetCode</a>
-
-</td>
-
-
-<td width="30%" valign="top" align="center">
-
-<img
-src="./assets/code-build-repeat.png"
-width="250"
-alt="Code Build Learn Repeat"
->
-
-</td>
-
-</tr>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/28/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"
+         width="22"
+         height="22"
+         style="vertical-align:middle;"
+         alt="LeetCode">
+    LeetCode
+  </a>
+</p>
 </table>
