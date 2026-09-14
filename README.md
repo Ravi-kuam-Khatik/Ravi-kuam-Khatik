@@ -74,4 +74,32 @@ to solve real-world problems.
 &nbsp; LeetCode
 
 </p>
+.box {
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(88, 166, 255, 0.25);
+}
+</table>
+<table>
+<tr>
+
+<!-- IMAGE - LEFT -->
+<td width="30%" align="center" valign="top">
+
+<img
+  src="./assets/code-build-repeat.png"
+  width="280"
+  alt="Code Build Learn Repeat"
+>
+
+</td>
+
+<!-- TEXT - RIGHT -->
+<td width="70%" valign="top">
+
+<!-- Yahan tumhara Hi 👋 wala content rahega -->
+
+</td>
+
+</tr>
 </table>
