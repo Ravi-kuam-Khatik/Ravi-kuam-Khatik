@@ -313,3 +313,206 @@ REST API with authentication.
 </tr>
 
 </table>
+
+
+<br>
+
+<h3>GitHub Stats</h3>
+
+<table width="100%" cellspacing="8" cellpadding="0">
+<tr>
+
+<!-- ================= FIRST CARD ================= -->
+
+<td width="34%" valign="top">
+
+<table width="100%" cellpadding="12" cellspacing="0"
+style="border:1px solid #30363d; border-radius:10px;">
+
+<tr>
+<td>
+
+<h3 style="color:#58a6ff;">
+Ravi Kumar Khatik's GitHub Stats
+</h3>
+
+<table width="100%">
+<tr>
+
+<td valign="top">
+
+⭐ &nbsp; Total Stars: &nbsp;&nbsp;&nbsp;&nbsp; 230
+<br><br>
+
+◉ &nbsp; Total Commits: &nbsp; 1,024
+<br><br>
+
+⑂ &nbsp; Total PRs: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 48
+<br><br>
+
+◷ &nbsp; Total Issues: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32
+<br><br>
+
+▣ &nbsp; Contributed to: &nbsp;&nbsp;&nbsp; 15
+
+</td>
+
+<td align="center" valign="middle">
+
+<img
+src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[75,25]}]},options:{cutout:'70%',plugins:{legend:{display:false}}}}"
+width="100"
+alt="GitHub Grade"
+>
+
+<br>
+
+<b>A+</b>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- ================= SECOND CARD ================= -->
+
+<td width="34%" valign="top">
+
+<table width="100%" cellpadding="12" cellspacing="0"
+style="border:1px solid #30363d; border-radius:10px;">
+
+<tr>
+<td>
+
+<h3 style="color:#58a6ff;">
+Most Used Languages
+</h3>
+
+<table width="100%">
+
+<tr>
+<td>🟡 JavaScript</td>
+<td align="right">45.2%</td>
+</tr>
+
+<tr>
+<td colspan="2">
+━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+
+<tr>
+<td>🔵 React</td>
+<td align="right">20.1%</td>
+</tr>
+
+<tr>
+<td colspan="2">
+━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+
+<tr>
+<td>🟠 HTML</td>
+<td align="right">12.3%</td>
+</tr>
+
+<tr>
+<td colspan="2">
+━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+
+<tr>
+<td>🟣 CSS</td>
+<td align="right">10.5%</td>
+</tr>
+
+<tr>
+<td colspan="2">
+━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+
+<tr>
+<td>🟢 Node.js</td>
+<td align="right">8.7%</td>
+</tr>
+
+<tr>
+<td colspan="2">
+━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+
+<tr>
+<td>⚫ Others</td>
+<td align="right">3.2%</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- ================= THIRD CARD ================= -->
+
+<td width="32%" valign="top">
+
+<table width="100%" cellpadding="12" cellspacing="0"
+style="border:1px solid #30363d; border-radius:10px;">
+
+<tr>
+<td align="center">
+
+<h3 align="left" style="color:#58a6ff;">
+GitHub Streak
+</h3>
+
+<br>
+
+<h1 style="font-size:42px;">
+🔥
+</h1>
+
+<h1 style="color:#f0883e;">
+156
+</h1>
+
+<b>Days</b>
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<h3 style="color:#58a6ff;">
+Keep going!
+</h3>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
