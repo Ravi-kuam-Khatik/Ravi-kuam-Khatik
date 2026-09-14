@@ -73,12 +73,12 @@ alt="LeetCode">
 &nbsp; LeetCode
 </p>
 
-<td width="60%" align="center" valign="top">
+<td width="30%" valign="middle" align="center">
 
 <img
-src="./leptop2.png"
-width="500"
-alt="Code Build Learn Repeat"
+  src="./leptop2.png"
+  width="100%"
+  alt="Code Build Learn Repeat"
 >
 
 </td>
