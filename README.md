@@ -63,7 +63,7 @@ to solve real-world problems.
 <td width="30%" valign="middle" align="center">
 
 <img
-  src="./assets/code-build-repeat.png"
+  src=".leptop2.png"
   width="320"
   alt="Code Build Learn Repeat"
 >
