@@ -62,9 +62,10 @@ to solve real-world problems.
 
 <td width="30%" valign="middle" align="center">
 
-<img src="./leptop2.png" width="500" height="500" alt="Code Build Learn Repeat">
+<img
+  src="./assets/code-build-repeat.png"
+  width="320"
+  alt="Code Build Learn Repeat"
+>
 
 </td>
-
-</tr>
-</table>
