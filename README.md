@@ -2,164 +2,201 @@
 
 # 👋 Hi, I'm Ravi Kumar Khatik
 
-### 🚀 Full Stack Developer | MERN Stack
+### 💻 MERN Stack Developer
 
-Building modern web applications with JavaScript, React & Node.js.
+<p>
+I'm a passionate developer focused on building modern,
+responsive and scalable web applications.
+</p>
 
 </div>
 
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://github.com/Ravi-kuam-Khatik">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-
-<hr>
-
-<h2>🚀 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎓 Currently Learning
-
-- Advanced JavaScript
-- React.js
-- Node.js & Express.js
-- MongoDB
-- DSA with Java
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎯 Goals
-
-- Become a Full Stack Developer
-- Build real-world projects
-- Improve problem-solving
-- Contribute to Open Source
-
-</td>
-
-<td width="33%" valign="top">
-
-### ✨ Fun Fact
-
-☕ I turn coffee into code  
-💡 Ideas into projects  
-🚀 Always learning & building
-
-</td>
-</tr>
-</table>
-
-
-
-<h2>📌 Featured Projects</h2>
+<br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="65%" valign="top">
 
-### 🃏 [Card Project](https://github.com/Ravi-kuam-Khatik/Card-Project)
+## 👨‍💻 About Me
 
-A frontend card project built with HTML and CSS.
+🌱 **Currently Learning:** React, Node.js, Express.js & MongoDB
 
-**Tech:** HTML • CSS
+<br>
 
-</td>
+🔭 **Working On:** Full-Stack MERN Projects
 
-<td width="33%" valign="top">
+<br>
 
-### 💾 [Local Storage Project](https://github.com/Ravi-kuam-Khatik/Local--Storage--Project)
+🎯 **Goal:** Become a Professional Full-Stack Engineer
 
-A JavaScript project demonstrating browser local storage.
+<br>
 
-**Tech:** JavaScript
+💬 **Ask Me About:** JavaScript, React, Node.js & MongoDB
 
-</td>
+<br>
 
-<td width="33%" valign="top">
+⚡ **Fun Fact:** I believe consistency beats motivation.
 
-### 🔎 [Image Search App](https://github.com/Ravi-kuam-Khatik/Image-Search-App)
+<br><br>
 
-An image search application built with frontend technologies.
+## 🔗 Connect With Me
 
-**Tech:** CSS • JavaScript
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</td>
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
-</tr>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<tr>
-
-<td width="33%" valign="top">
-
-### ⏱️ [Stop Watch](https://github.com/Ravi-kuam-Khatik/stop-watch)
-
-A stopwatch application built using JavaScript.
-
-**Tech:** JavaScript • HTML • CSS
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎨 [Change Shape & Colour](https://github.com/Ravi-kuam-Khatik/change-shap-and-colour)
-
-An interactive JavaScript project for changing shapes and colours.
-
-**Tech:** JavaScript • CSS
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="35%" align="center">
 
-### 🚀 [Major Project](https://github.com/Ravi-kuam-Khatik/Major-Project)
+<img src="./laptop.png" width="280">
 
-My major web development project.
+<br><br>
 
-**Tech:** HTML • CSS • JavaScript
+### 💻 Code • Build • Learn • Repeat
 
 </td>
 
 </tr>
 </table>
 
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravi-kuam-Khatik&theme=tokyonight&hide_border=true">
-</p>
+<br>
 
 ---
 
-## 🎯 What I'm Currently Doing
+# 🛠️ Tech Stack
 
-- 🚀 Building projects with JavaScript & React
-- 📚 Learning Node.js, Express.js & MongoDB
-- 💻 Practicing Data Structures & Algorithms with Java
-- 🤝 Open to collaboration and development opportunities
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+
+</div>
+
+<br>
 
 ---
 
-### 💙 Thanks for visiting my profile!
+# 🚀 Featured Projects
 
-**Build • Learn • Grow • Repeat 🚀**
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛒 MERN E-Commerce
+
+A full-stack e-commerce application built using the MERN stack.
+
+**Technologies:**  
+React • Node.js • Express • MongoDB
+
+</td>
+
+<td width="50%">
+
+### ▶️ YouTube Clone
+
+A responsive YouTube-inspired application built with React.
+
+**Technologies:**  
+React • JavaScript • API
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛍️ Amazon Clone
+
+A responsive Amazon-inspired frontend project.
+
+**Technologies:**  
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 👨‍💻 Portfolio Website
+
+My personal developer portfolio website.
+
+**Technologies:**  
+HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ravi-kuam-Khatik&show_icons=true&theme=github_dark&hide_border=true">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ravi-kuam-Khatik&theme=github-dark-blue&hide_border=true">
+
+</div>
+
+<br>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-kuam-Khatik&layout=compact&theme=github_dark&hide_border=true">
+
+</div>
+
+<br>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-kuam-Khatik&theme=github-compact&hide_border=true">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💭 Developer Mindset
+
+### "Code • Build • Learn • Repeat."
+
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
