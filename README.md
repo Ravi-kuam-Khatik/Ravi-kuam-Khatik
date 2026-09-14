@@ -80,3 +80,69 @@ alt="LeetCode">
 
 </tr>
 </table>
+
+<br>
+
+<h3>Tech Stack</h3>
+
+<table
+  width="100%"
+  cellpadding="8"
+  cellspacing="0"
+  border="1"
+  style="border-color:#1f6feb; border-radius:10px;"
+>
+<tr align="center">
+
+<td>
+<img src="https://skillicons.dev/icons?i=html" width="38" height="38"><br>
+<sub>HTML5</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=css" width="38" height="38"><br>
+<sub>CSS3</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=javascript" width="38" height="38"><br>
+<sub>JavaScript</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=react" width="38" height="38"><br>
+<sub>React</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs" width="38" height="38"><br>
+<sub>Node.js</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=express" width="38" height="38"><br>
+<sub>Express.js</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb" width="38" height="38"><br>
+<sub>MongoDB</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=git" width="38" height="38"><br>
+<sub>Git</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=github" width="38" height="38"><br>
+<sub>GitHub</sub>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=vscode" width="38" height="38"><br>
+<sub>VS Code</sub>
+</td>
+
+</tr>
+</table>
