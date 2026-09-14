@@ -6,7 +6,7 @@
 <h1>Hi 👋, I’m Ravi Kumar Khatik</h1>
 
 <h2>
-<span style="color:#58A6FF;">MERN Stack Developer</span>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=1&pause=1000&color=58A6FF&center=false&vCenter=true&width=350&lines=MERN+Stack+Developer" />
 </h2>
 
 <p>
@@ -29,43 +29,59 @@ to solve real-world problems.
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.icons8.com/color/28/linkedin.png" width="22" height="22">
+<img src="https://img.icons8.com/color/28/linkedin.png"
+width="22"
+height="22"
+alt="LinkedIn">
 </a>
 &nbsp; LinkedIn
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.icons8.com/fluency/28/internet.png" width="22" height="22">
+<img src="https://img.icons8.com/fluency/28/internet.png"
+width="22"
+height="22"
+alt="Portfolio">
 </a>
 &nbsp; Portfolio
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/color/28/gmail-new.png" width="22" height="22">
+<img src="https://img.icons8.com/color/28/gmail-new.png"
+width="22"
+height="22"
+alt="Gmail">
 </a>
 &nbsp; Gmail
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_TWITTER_URL">
-<img src="https://img.icons8.com/ios-glyphs/28/ffffff/twitterx.png" width="22" height="22">
+<img src="https://img.icons8.com/ios-glyphs/28/ffffff/twitterx.png"
+width="22"
+height="22"
+alt="Twitter">
 </a>
 &nbsp; Twitter
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/28/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" width="22" height="22">
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/28/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"
+width="22"
+height="22"
+alt="LeetCode">
 </a>
 &nbsp; LeetCode
 </p>
 
-</td>
-
-<td width="30%" valign="middle" align="center">
+<td width="60%" align="center" valign="top">
 
 <img
-  src="./leptop2.png"
-  width="320"
-  alt="Code Build Learn Repeat"
+src="./leptop2.png"
+width="500"
+alt="Code Build Learn Repeat"
 >
 
 </td>
+
+</tr>
+</table>
