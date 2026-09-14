@@ -62,7 +62,7 @@ to solve real-world problems.
 
 <td width="30%" valign="middle" align="center">
 
-<img src="./leptop2.png" width="260" alt="Code Build Learn Repeat">
+<img src="./leptop2.png" width="500" height="500" alt="Code Build Learn Repeat">
 
 </td>
 
